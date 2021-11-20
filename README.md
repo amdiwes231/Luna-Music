@@ -1,5 +1,5 @@
 <h1 align="center"><b>『Luna Musíc』 </b></h1>
-<p align="center"><a href="https://t.me/VeezVideoBot"><img src="https://github.com/levina-lab/video-stream/raw/main/driver/veezlogo.png"></a></p>
+<p align="center"><a href="https://t.me/Luna_MusicBot"><img src="https://github.com/levina-lab/video-stream/raw/main/driver/veezlogo.png"></a></p>
 <p align="center">
     <br><b>Video Stream is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
 </p>
@@ -15,7 +15,7 @@
 </p>
 
 ## 📊 Stats
-[![CodeFactor](https://www.codefactor.io/repository/github/levina-lab/video-stream/badge)](https://www.codefactor.io/repository/github/levina-lab/video-stream)
+[![CodeFactor](https://www.codefactor.io/repository/github/Unknownvip/Luna-Music/badge)](https://www.codefactor.io/repository/github/Unknownvip/Luna-Music)
 
 ## 🧪 Get `SESSION_NAME` from below:
 
@@ -23,7 +23,7 @@
 
 ## 🎭 Preview
 <p align="center">
-  <img src="https://telegra.ph/file/b8c1461bcbbad5664aa48.png">
+  <img src="https://telegra.ph/file/0b7b6460e1dc3a8bbf5be.jpg">
 </p>
 
 ## ✨ Features
@@ -68,7 +68,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/video-stream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Unknownvip/Luna-Music)
 
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
@@ -80,7 +80,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/levina-lab/video-stream # clone the repo.
+git clone https://github.com/Unknownvip/Luna-Music # clone the repo.
 cd video-stream
 pip3 install -U -r requirements.txt
 cp example.env .env # use vim to edit ENVs
@@ -92,13 +92,6 @@ python3 main.py # run the bot.
 
 # Credits 💖
 
-- [Levina](https://github.com/levina-lab) ``Dev``
-- [Zxce3](https://github.com/Zxce3) ``Dev``
-- [DoellBarr](https://github.com/DoellBarr) ``Dev``
-- [tofikdn](https://github.com/tofikdn) ``Dev``
-- [Hunter-XDD](https://github.com/Hunter-XDD) ``Dev``
-- [Laky's](https://github.com/Laky-64) for [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
-- [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
 
 ### Support & Updates 🎑
-<a href="https://t.me/VeezSupportGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Team_Blaze_Fighter"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/The_Secret_worlds"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
